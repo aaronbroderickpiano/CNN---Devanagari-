@@ -5,3 +5,5 @@ Three varieties of deep learning models to solve an image classification problem
 
 
 CNN was the clear winner with 97.7% accuracy.  
+
+[Original data set](https://www.kaggle.com/rishianand/devanagari-character-set)
